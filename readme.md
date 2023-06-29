@@ -1,11 +1,14 @@
-# Dépôt Git
+# \\[Test] Dépôt Git
 
 ### Description
 
 Ce dépot Git est destiné à découvrir, re-découvrir les commandes Git.
 
-
 ---
+### Cloner le projet
+
+- git clone "lien du dépot git"
+- cd Test_Git
 
 ### Notes
 
